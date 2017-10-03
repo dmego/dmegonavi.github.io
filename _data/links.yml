@@ -1,0 +1,364 @@
+- section: public
+  categories:
+  - category: 购物
+    links:
+    - name: 京东
+      style: basic
+      url: http://www.jd.com/
+
+    - name: 天猫
+      style: red
+      url: http://www.tmall.com/
+
+    - name: 淘宝
+      style: orange
+      url: http://www.taobao.com/
+
+    - name: 亚马逊
+      icon: amazon yellow
+      style: basic
+      url: http://www.amazon.cn/
+
+    - name: Apple
+      style: basic
+      icon: apple grey
+      url: https://www.apple.com/
+
+    - name: 一号店
+      style: basic
+      url: http://www.yhd.com/
+
+    - name: 当当
+      style: basic
+      url: http://www.dangdang.com/
+
+    - name: 网易严选
+      style: basic
+      url: http://you.163.com/
+
+    - name: 优衣库
+      style: basic
+      url: http://www.uniqlo.cn/
+
+    - name: 无印良品
+      style: basic
+      url: http://www.muji.com.cn/
+
+    - name: IKEA
+      style: basic
+      url: http://www.ikea.com/
+
+    - name: 锤子科技
+      style: basic
+      url: http://www.smartisan.com/
+
+    - name: 小米商城
+      style: basic
+      url: http://www.mi.com/index.html
+
+  - category: 工具
+    links:
+    - name: '12306'
+      icon: train red
+      style: basic
+      url: http://www.12306.cn/
+
+    - name: 快递查询
+      icon: shipping olive
+      style: basic
+      url: http://www.kuaidi100.com/
+
+    - name: 大众点评
+      icon: food orange
+      style: basic
+      url: http://www.dianping.com/
+
+    - name: 网易邮箱
+      icon: mail red
+      style: basic
+      url: http://email.163.com/
+
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: https://mail.qq.com/
+
+    - name: 新浪邮箱
+      style: basic
+      url: https://mail.sina.com.cn/
+
+    - name: Gmail
+      icon: google red
+      style: basic
+      url: http://mail.google.com/
+
+    - name: 谷歌翻译
+      icon: translate blue
+      style: basic
+      url: https://translate.google.com/
+
+    - name: 百度翻译
+      icon: paw blue
+      style: basic
+      url: http://fanyi.baidu.com/
+
+    - name: 维基百科
+      icon: wikipedia black
+      style: basic
+      url: https://www.wikipedia.org/
+
+    - name: TinEye
+      style: basic
+      url: https://www.tineye.com/
+
+  - category: 社交
+    links:
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: http://weibo.com/
+
+    - name: 微信网页版
+      icon: wechat green
+      style: basic
+      url: http://wx.qq.com/
+
+    - name: 百度贴吧
+      icon: paw blue
+      style: basic
+      url: http://tieba.baidu.com/
+
+    - name: 知乎
+      style: blue
+      url: http://www.zhihu.com/
+
+    - name: Quora
+      icon: quora red
+      style: basic
+      url: http://www.quora.com/
+
+    - name: Facebook
+      icon: facebook blue
+      style: basic
+      url: http://www.facebook.com/
+
+    - name: Google+
+      icon: google plus red
+      style: basic
+      url: https://plus.google.com/
+
+    - name: Tumblr
+      icon: tumblr blue
+      style: basic
+      url: http://www.tumblr.com/
+
+    - name: Instagram
+      icon: instagram pink
+      style: basic
+      url: http://www.instagram.com/
+
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: http://github.com/
+
+  - category: 学习
+    links:
+    - name: Coursera
+      style: basic
+      url: https://www.coursera.org/
+
+    - name: MOOC
+      style: basic
+      url: http://mooc.org/
+
+    - name: 网易公开课
+      style: basic
+      url: http://open.163.com/
+
+    - name: W3School
+      style: basic
+      url: http://www.w3school.com.cn/
+
+    - name: Stack Overflow
+      icon: stack overflow orange
+      style: basic
+      url: http://stackoverflow.com/
+
+    - name: SegmentFault
+      style: basic
+      url: http://segmentfault.com/
+
+    - name: Tutorials Point
+      style: basic
+      url: https://www.tutorialspoint.com/
+
+    - name: Google Open Source
+      icon: code blue
+      style: basic
+      url: https://opensource.google.com/
+
+  - category: 求职
+    links:
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: http://www.linkedin.com/
+
+    - name: 大街网
+      style: basic
+      url: http://www.dajie.com/
+
+    - name: 拉勾网
+      style: basic
+      url: http://www.lagou.com/
+
+    - name: 智联招聘
+      style: basic
+      url: http://zhaopin.com/
+
+    - name: 前程无忧
+      style: basic
+      url: http://www.51job.com/
+
+    - name: 应届生
+      style: basic
+      url: http://www.yingjiesheng.com/
+
+  - category: 娱乐
+    links:
+    - name: 优酷
+      style: basic
+      url: http://www.youku.com/
+
+    - name: 土豆
+      style: basic
+      url: http://www.tudou.com/
+
+    - name: Youtube
+      icon: youtube red
+      style: basic
+      url: http://www.youtube.com/
+
+    - name: 爱奇艺
+      style: basic
+      url: http://www.iqiyi.com/
+
+    - name: 芒果TV
+      style: basic
+      url: http://www.mgtv.com/
+
+    - name: 腾讯视频
+      style: basic
+      url: https://v.qq.com/
+
+    - name: 哔哩哔哩
+      style: pink
+      url: http://www.bilibili.com/
+
+    - name: AcFun
+      style: basic
+      url: http://www.acfun.tv/
+
+    - name: 吐槽
+      style: basic
+      url: http://www.tucao.tv/
+
+    - name: 腾讯动漫
+      style: basic
+      url: http://ac.qq.com/
+
+    - name: 虾米
+      style: basic
+      url: http://www.xiami.com/
+
+    - name: 多瑙影院
+      style: basic
+      url: http://www.dnvod.tv/
+
+    - name: FIX字幕侠
+      style: basic
+      url: http://www.fixsub.com/
+
+- section: dmego
+  categories:
+  - category: 铁大校园
+    links:
+    - name: 铁大官网
+      style: basic
+      url: http://www.stdu.edu.cn/
+
+    - name: 教务系统
+      style: basic
+      url: http://jw.stdu.edu.cn/homepage/index.do
+
+    - name: 信息科学与技术学院
+      style: basic
+      url: http://sist.stdu.edu.cn/  
+
+    - name: 平方X论坛
+      style: basic
+      url: http://www.pingfangx.com/forum.php
+
+    - name: 铁大X V2.0
+      style: basic
+      url: http://www.pingfangx.com/xx/tieda?jump=0
+      
+    - name: 图书馆
+      style: basic
+      url: http://lib.stdu.edu.cn/
+
+    - name: 铁大贴吧
+      style: basic
+      url: http://tieba.baidu.com/f?kw=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%93%81%E9%81%93%E5%A4%A7%E5%AD%A6&ie=utf-8
+      
+    - name: 校园网
+      style: basic
+      url: http://info.stdu.edu.cn/
+
+    - name: 铁大邮箱
+      style: basic
+      url: http://mail.stdu.edu.cn/
+
+    - name: FTP资源服务
+      style: basic
+      url: ftp://ftp.stdu.edu.cn/
+
+  - category: 与我相关
+    links:
+    - name: Dmego的博客
+      style: teal
+      url: http://dmego.me/
+
+    - name: GitHub
+      style: basic
+      url: https://github.com/dmego/
+
+    - name: 我的微博
+      style: basic
+      url: http://weibo.com/zengkaki
+
+    - name: 我的知乎
+      style: basic
+      url: https://www.zhihu.com/people/dmego/activities
+
+    - name: 博客园
+      style: basic
+      url: http://www.cnblogs.com/dmego/
+
+    - name: 我的简书
+      style: basic
+      url: http://www.jianshu.com/u/17d26d7c6022
+
+
+  - category: 其他
+    links:
+    - name: 石家庄铁道大学校学生会
+      style: basic
+      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+
+    - name: 石家庄铁道大学微博协会
+      style: basic
+      url: http://weibo.com/tiedaweixie
+      
+    

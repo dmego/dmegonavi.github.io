@@ -1,0 +1,49 @@
+analytics:
+   google:
+     id: UA-107262409-1
+   piwik:
+     site_id: 1
+     api:
+       url: 
+       token: 
+
+
+baidu-analysis: 5510ab29b3620d9e989273be377bfd53
+
+repository: dmego/dmegonavi.github.io
+repository_url: https://github.com/dmego/dmegonavi.github.io
+
+timezone: Asia/Shijiazhuang
+lang: zh_CN
+
+title: 扬帆远航 · Dmego-Navi
+alias: 扬帆远航
+description: A Navigation Website for Demgo
+keywords: 扬帆远航, Dmego-Navi, Dmego, BUPT, Navi, Navigation
+url: http://navi.dmego.me
+
+author: Dmego
+author_url: http://dmego.me
+organization: 
+organization_url: 
+contact: 
+
+image: /images/logo.png
+logo: /images/logo.png
+logo_dark: /images/logo-dark.png
+logo_white: /images/logo-white.png
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
