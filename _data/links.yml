@@ -310,7 +310,7 @@
       url: http://lib.stdu.edu.cn/
 
     - name: 铁大贴吧
-      style: bule
+      style: blue
       url: http://tieba.baidu.com/f?kw=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%93%81%E9%81%93%E5%A4%A7%E5%AD%A6&ie=utf-8
 
     - name: 校园网
