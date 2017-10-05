@@ -32,14 +32,14 @@
   name: 知乎
   url: http://www.zhihu.com/search?q=
   shortcut: 知乎
-  icon: Twitch
+  icon: Twitch blue
   style: basic
 
 - id: fkdy
   name: 影视
   url: http://ifkdy.com/?q=
   shortcut: 影视
-  icon: Youtube Play
+  icon: Youtube Play red
   style: basic
 
 - id: panci
@@ -47,21 +47,21 @@
   url: http://www.panc.cc/s/
   suffix: "/td_0"
   shortcut: 网盘
-  icon: Mixcloud
+  icon: Mixcloud green
   style: basic
 
 - id: douban
   name: 豆瓣
   url: http://www.douban.com/search?q=
   shortcut: 豆瓣
-  icon: Yelp
+  icon: Yelp blue
   style: basic
 
 - id: github
   name: GitHub
   url: http://github.com/search?q=
   shortcut: GitHub
-  icon: Github Alternate
+  icon: Github Alternate black
   style: basic
 
 - id: jd
