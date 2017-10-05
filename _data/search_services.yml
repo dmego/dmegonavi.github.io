@@ -39,7 +39,7 @@
   name: 影视
   url: http://ifkdy.com/?q=
   shortcut: 影视
-  icon: youtube-play red
+  icon: youtube red
   style: basic
 
 - id: panci
@@ -47,21 +47,21 @@
   url: http://www.panc.cc/s/
   suffix: "/td_0"
   shortcut: 网盘
-  icon: Mixcloud green
+  icon: mixcloud green
   style: basic
 
 - id: douban
   name: 豆瓣
   url: http://www.douban.com/search?q=
   shortcut: 豆瓣
-  icon: Yelp blue
+  icon: yelp blue
   style: basic
 
 - id: github
   name: GitHub
   url: http://github.com/search?q=
   shortcut: GitHub
-  icon: Github Alternate black
+  icon: Github black
   style: basic
 
 - id: jd
