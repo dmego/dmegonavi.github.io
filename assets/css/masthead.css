@@ -88,32 +88,32 @@
 .ui.inverted.masthead.segment,
 .ui.inverted.masthead.segment:after {
     -ms-transition:
-        background 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+        background 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
+        opacity 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
     -moz-transition:
-        background 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+        background 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
+        opacity 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
     -webkit-transition:
-        background 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+        background 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
+        opacity 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
     transition:
-        background 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+        background 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
+        opacity 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
     transition:
-        background 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+        background 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
+        opacity 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
     -ms-transition:
-        background 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+        background 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
+        opacity 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
     -moz-transition:
-        background 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+        background 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
+        opacity 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
     -webkit-transition:
-        background 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+        background 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
+        opacity 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
     transition:
-        background 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 4s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+        background 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
+        opacity 3s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
 }
 .pusher .ui.inverted.menu {
     background: none;
