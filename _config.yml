@@ -1,12 +1,7 @@
 analytics:
    google:
      id: UA-107262409-1
-   piwik:
-     site_id: 1
-     api:
-       url:
-       token:
-
+     
 baidu-analysis: 5510ab29b3620d9e989273be377bfd53
 
 repository: dmego/dmegonavi.github.io
