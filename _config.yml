@@ -4,10 +4,10 @@ analytics:
    piwik:
      site_id: 1
      api:
-       url: 
-       token: 
+       url:
+       token:
 
-
+addthis: ra-59d6346d653abef4
 baidu-analysis: 5510ab29b3620d9e989273be377bfd53
 
 repository: dmego/dmegonavi.github.io
@@ -24,9 +24,9 @@ url: http://navi.dmego.me
 
 author: Dmego
 author_url: http://dmego.me
-organization: 
-organization_url: 
-contact: 
+organization:
+organization_url:
+contact:
 
 image: /images/logo.png
 logo: /images/logo.png
