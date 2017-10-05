@@ -38,8 +38,6 @@
         {% include footer.html %}
     </div>
     {% include dimmer.html %}
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthis }}"></script>
     <script type="text/javascript" src="//unpkg.com/jquery/dist/jquery.min.js"></script>
     <script type="text/javascript" src="//unpkg.com/semantic-ui/dist/semantic.min.js"></script>
     {% if page.home %}<script type="text/javascript" src="//unpkg.com/moment/min/moment-with-locales.min.js"></script>{% endif %}
@@ -54,5 +52,7 @@
     {% if page.analytics %}<script type="text/javascript" src="{{ '/assets/js/analytics.js' | relative_url }}"></script>{% endif %}
     {% if page.search %}<script type="text/javascript" src="//unpkg.com/js-url/url.min.js"></script>{% endif %}
     {% if page.search %}<script type="text/javascript" src="{{ '/assets/js/search.js' | relative_url }}"></script>{% endif %}
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthis }}"></script>
 </body>
 </html>
