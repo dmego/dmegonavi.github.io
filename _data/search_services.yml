@@ -32,14 +32,14 @@
   name: 知乎
   url: http://www.zhihu.com/search?q=
   shortcut: 知乎
-  icon: Twitch blue
+  icon: twitch blue
   style: basic
 
 - id: fkdy
   name: 影视
   url: http://ifkdy.com/?q=
   shortcut: 影视
-  icon: Youtube Play red
+  icon: youtube-play red
   style: basic
 
 - id: panci
