@@ -25,7 +25,7 @@
   name: 微博
   url: http://s.weibo.com/weibo/
   shortcut: 微博
-  # icon: weibo red
+  icon: weibo red
   style: basic
 
 - id: zhihu
@@ -44,6 +44,8 @@
   name: 网盘
   url: http://www.panc.cc/s/
   suffix: "/td_0"
+  shortcut: 网盘
+  style: basic
 
 - id: douban
   name: 豆瓣
@@ -67,7 +69,8 @@
 - id: github
   name: GitHub
   url: http://github.com/search?q=
-
+  style: basic
+  
 - id: wechat
   name: 微信公众号
   url: http://weixin.sogou.com/weixin?query=
@@ -81,7 +84,7 @@
   url: https://www.wikipedia.org/wiki/
   shortcut: 维基
   # icon: wikipedia black
-  style: basic
+
 
 - id: baiduxueshu
   name: 百度学术
