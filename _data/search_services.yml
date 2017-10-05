@@ -21,45 +21,6 @@
   icon: map green
   style: basic
 
-- id: wikipedia
-  name: 维基百科
-  url: https://www.wikipedia.org/wiki/
-  shortcut: 维基
-  # icon: wikipedia black
-  style: basic
-
-- id: ieeexplore
-  name: IEEE Xplore
-  url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=
-
-- id: baiduxueshu
-  name: 百度学术
-  url: http://xueshu.baidu.com/s?wd=
-
-- id: googlescholar
-  name: 谷歌学术
-  url: http://scholar.google.com/scholar?q=
-
-- id: etymonline
-  name: Etymonline
-  url: http://www.etymonline.com/index.php?search=
-
-- id: mw
-  name: Merriam-Webster
-  url: https://www.merriam-webster.com/dictionary/
-
-- id: github
-  name: GitHub
-  url: http://github.com/search?q=
-
-- id: wechat
-  name: 微信公众号
-  url: http://weixin.sogou.com/weixin?query=
-
-- id: minapp
-  name: 微信小程序
-  url: https://minapp.com/miniapp/search/?query=
-
 - id: weibo
   name: 微博
   url: http://s.weibo.com/weibo/
@@ -92,12 +53,6 @@
   shortcut: 淘宝
   style: basic
 
-- id: xiami
-  name: 虾米
-  url: http://www.xiami.com/search?key=
-  shortcut: 虾米
-  style: basic
-
 - id: fkdy
   name: 影视
   url: http://ifkdy.com/?q=
@@ -108,4 +63,42 @@
   name: 胖次
   url: http://www.panc.cc/s/
   suffix: "/td_0"
-  
+
+- id: github
+  name: GitHub
+  url: http://github.com/search?q=
+
+- id: wechat
+  name: 微信公众号
+  url: http://weixin.sogou.com/weixin?query=
+
+- id: minapp
+  name: 微信小程序
+  url: https://minapp.com/miniapp/search/?query=
+
+- id: wikipedia
+  name: 维基百科
+  url: https://www.wikipedia.org/wiki/
+  shortcut: 维基
+  # icon: wikipedia black
+  style: basic
+
+- id: baiduxueshu
+  name: 百度学术
+  url: http://xueshu.baidu.com/s?wd=
+
+- id: googlescholar
+  name: 谷歌学术
+  url: http://scholar.google.com/scholar?q=
+
+- id: ieeexplore
+  name: IEEE Xplore
+  url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=
+
+- id: etymonline
+  name: Etymonline
+  url: http://www.etymonline.com/index.php?search=
+
+- id: mw
+  name: Merriam-Webster
+  url: https://www.merriam-webster.com/dictionary/

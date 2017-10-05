@@ -56,6 +56,87 @@
       style: basic
       url: http://www.mi.com/index.html
 
+  - category: 娱乐
+        links:
+        - name: 优酷
+          style: basic
+          url: http://www.youku.com/
+
+        - name: 土豆
+          style: basic
+          url: http://www.tudou.com/
+
+        - name: Youtube
+          icon: youtube red
+          style: basic
+          url: http://www.youtube.com/
+
+        - name: 爱奇艺
+          style: basic
+          url: http://www.iqiyi.com/
+
+        - name: 芒果TV
+          style: basic
+          url: http://www.mgtv.com/
+
+        - name: 腾讯视频
+          style: basic
+          url: https://v.qq.com/
+
+        - name: 哔哩哔哩
+          style: pink
+          url: http://www.bilibili.com/
+
+        - name: AcFun
+          style: basic
+          url: http://www.acfun.tv/
+
+        - name: 吐槽
+          style: basic
+          url: http://www.tucao.tv/
+
+        - name: 腾讯动漫
+          style: basic
+          url: http://ac.qq.com/
+
+        - name: 虾米
+          style: basic
+          url: http://www.xiami.com/
+
+        - name: 多瑙影院
+          style: basic
+          url: http://www.dnvod.tv/
+
+        - name: FIX字幕侠
+          style: basic
+          url: http://www.fixsub.com/
+        - category: 求职
+          links:
+          - name: LinkedIn
+            icon: linkedin blue
+            style: basic
+            url: http://www.linkedin.com/
+
+          - name: 大街网
+            style: basic
+            url: http://www.dajie.com/
+
+          - name: 拉勾网
+            style: basic
+            url: http://www.lagou.com/
+
+          - name: 智联招聘
+            style: basic
+            url: http://zhaopin.com/
+
+          - name: 前程无忧
+            style: basic
+            url: http://www.51job.com/
+
+          - name: 应届生
+            style: basic
+            url: http://www.yingjiesheng.com/
+
   - category: 工具
     links:
     - name: '12306'
@@ -198,94 +279,14 @@
       style: basic
       url: https://opensource.google.com/
 
-  - category: 求职
-    links:
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: http://www.linkedin.com/
 
-    - name: 大街网
-      style: basic
-      url: http://www.dajie.com/
-
-    - name: 拉勾网
-      style: basic
-      url: http://www.lagou.com/
-
-    - name: 智联招聘
-      style: basic
-      url: http://zhaopin.com/
-
-    - name: 前程无忧
-      style: basic
-      url: http://www.51job.com/
-
-    - name: 应届生
-      style: basic
-      url: http://www.yingjiesheng.com/
-
-  - category: 娱乐
-    links:
-    - name: 优酷
-      style: basic
-      url: http://www.youku.com/
-
-    - name: 土豆
-      style: basic
-      url: http://www.tudou.com/
-
-    - name: Youtube
-      icon: youtube red
-      style: basic
-      url: http://www.youtube.com/
-
-    - name: 爱奇艺
-      style: basic
-      url: http://www.iqiyi.com/
-
-    - name: 芒果TV
-      style: basic
-      url: http://www.mgtv.com/
-
-    - name: 腾讯视频
-      style: basic
-      url: https://v.qq.com/
-
-    - name: 哔哩哔哩
-      style: pink
-      url: http://www.bilibili.com/
-
-    - name: AcFun
-      style: basic
-      url: http://www.acfun.tv/
-
-    - name: 吐槽
-      style: basic
-      url: http://www.tucao.tv/
-
-    - name: 腾讯动漫
-      style: basic
-      url: http://ac.qq.com/
-
-    - name: 虾米
-      style: basic
-      url: http://www.xiami.com/
-
-    - name: 多瑙影院
-      style: basic
-      url: http://www.dnvod.tv/
-
-    - name: FIX字幕侠
-      style: basic
-      url: http://www.fixsub.com/
 
 - section: dmego
   categories:
   - category: 铁大校园
     links:
     - name: 铁大官网
-      style: basic
+      style: red
       url: http://www.stdu.edu.cn/
 
     - name: 教务系统
@@ -294,7 +295,7 @@
 
     - name: 信息科学与技术学院
       style: basic
-      url: http://sist.stdu.edu.cn/  
+      url: http://sist.stdu.edu.cn/
 
     - name: 平方X论坛
       style: basic
@@ -303,15 +304,15 @@
     - name: 铁大X V2.0
       style: basic
       url: http://www.pingfangx.com/xx/tieda?jump=0
-      
+
     - name: 图书馆
       style: basic
       url: http://lib.stdu.edu.cn/
 
     - name: 铁大贴吧
-      style: basic
+      style: bule
       url: http://tieba.baidu.com/f?kw=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%93%81%E9%81%93%E5%A4%A7%E5%AD%A6&ie=utf-8
-      
+
     - name: 校园网
       style: basic
       url: http://info.stdu.edu.cn/
@@ -350,7 +351,6 @@
       style: basic
       url: http://www.jianshu.com/u/17d26d7c6022
 
-
   - category: 其他
     links:
     - name: 石家庄铁道大学校学生会
@@ -360,5 +360,3 @@
     - name: 石家庄铁道大学微博协会
       style: basic
       url: http://weibo.com/tiedaweixie
-      
-    
