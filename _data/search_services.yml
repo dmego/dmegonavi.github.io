@@ -43,7 +43,6 @@
 - id: panci
   name: 网盘
   url: http://www.panc.cc/s/
-  shortcut: 网盘
   suffix: "/td_0"
 
 - id: douban
