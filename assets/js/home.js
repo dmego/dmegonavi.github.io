@@ -8,14 +8,6 @@ $('#logo').hover(function () {
 });
 
 // progress bar
-$('#page-loading-progress').progress({
-    total: 2,
-    onSuccess: function () {
-        $('#page-loading-progress').fadeOut(1000, function () {
-            $('#page-loading-progress').remove();
-        });
-    }
-});
 
 // GitHub
 
