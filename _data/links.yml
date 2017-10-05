@@ -58,84 +58,58 @@
 
   - category: 娱乐
     links:
-        - name: 优酷
-          style: basic
-          url: http://www.youku.com/
+    - name: 优酷
+      style: basic
+      url: http://www.youku.com/
 
-        - name: 土豆
-          style: basic
-          url: http://www.tudou.com/
+    - name: 土豆
+      style: basic
+      url: http://www.tudou.com/
 
-        - name: Youtube
-          icon: youtube red
-          style: basic
-          url: http://www.youtube.com/
+    - name: Youtube
+      icon: youtube red
+      style: basic
+      url: http://www.youtube.com/
 
-        - name: 爱奇艺
-          style: basic
-          url: http://www.iqiyi.com/
+    - name: 爱奇艺
+      style: basic
+      url: http://www.iqiyi.com/
 
-        - name: 芒果TV
-          style: basic
-          url: http://www.mgtv.com/
+    - name: 芒果TV
+      style: basic
+      url: http://www.mgtv.com/
 
-        - name: 腾讯视频
-          style: basic
-          url: https://v.qq.com/
+    - name: 腾讯视频
+      style: basic
+      url: https://v.qq.com/
 
-        - name: 哔哩哔哩
-          style: pink
-          url: http://www.bilibili.com/
+    - name: 哔哩哔哩
+      style: pink
+      url: http://www.bilibili.com/
 
-        - name: AcFun
-          style: basic
-          url: http://www.acfun.tv/
+    - name: AcFun
+      style: basic
+      url: http://www.acfun.tv/
 
-        - name: 吐槽
-          style: basic
-          url: http://www.tucao.tv/
+    - name: 吐槽
+      style: basic
+      url: http://www.tucao.tv/
 
-        - name: 腾讯动漫
-          style: basic
-          url: http://ac.qq.com/
+    - name: 腾讯动漫
+      style: basic
+      url: http://ac.qq.com/
 
-        - name: 虾米
-          style: basic
-          url: http://www.xiami.com/
+    - name: 虾米
+      style: basic
+      url: http://www.xiami.com/
 
-        - name: 多瑙影院
-          style: basic
-          url: http://www.dnvod.tv/
+    - name: 多瑙影院
+      style: basic
+      url: http://www.dnvod.tv/
 
-        - name: FIX字幕侠
-          style: basic
-          url: http://www.fixsub.com/
-        - category: 求职
-          links:
-          - name: LinkedIn
-            icon: linkedin blue
-            style: basic
-            url: http://www.linkedin.com/
-
-          - name: 大街网
-            style: basic
-            url: http://www.dajie.com/
-
-          - name: 拉勾网
-            style: basic
-            url: http://www.lagou.com/
-
-          - name: 智联招聘
-            style: basic
-            url: http://zhaopin.com/
-
-          - name: 前程无忧
-            style: basic
-            url: http://www.51job.com/
-
-          - name: 应届生
-            style: basic
-            url: http://www.yingjiesheng.com/
+    - name: FIX字幕侠
+      style: basic
+      url: http://www.fixsub.com/
 
   - category: 工具
     links:
@@ -279,6 +253,32 @@
       style: basic
       url: https://opensource.google.com/
 
+  - category: 求职
+    links:
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: http://www.linkedin.com/
+
+    - name: 大街网
+      style: basic
+      url: http://www.dajie.com/
+
+    - name: 拉勾网
+      style: basic
+      url: http://www.lagou.com/
+
+    - name: 智联招聘
+      style: basic
+      url: http://zhaopin.com/
+
+    - name: 前程无忧
+      style: basic
+      url: http://www.51job.com/
+
+    - name: 应届生
+      style: basic
+      url: http://www.yingjiesheng.com/
 
 
 - section: dmego

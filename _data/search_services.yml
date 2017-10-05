@@ -34,6 +34,18 @@
   shortcut: 知乎
   style: basic
 
+- id: fkdy
+  name: 影视
+  url: http://ifkdy.com/?q=
+  shortcut: 影视
+  style: basic
+
+- id: panci
+  name: 网盘
+  url: http://www.panc.cc/s/
+  shortcut: 网盘
+  suffix: "/td_0"
+
 - id: douban
   name: 豆瓣
   url: http://www.douban.com/search?q=
@@ -52,17 +64,6 @@
   url: https://s.taobao.com/search?q=
   shortcut: 淘宝
   style: basic
-
-- id: fkdy
-  name: 影视
-  url: http://ifkdy.com/?q=
-  shortcut: 影视
-  style: basic
-
-- id: panci
-  name: 胖次
-  url: http://www.panc.cc/s/
-  suffix: "/td_0"
 
 - id: github
   name: GitHub
