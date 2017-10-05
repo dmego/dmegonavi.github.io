@@ -57,7 +57,7 @@
       url: http://www.mi.com/index.html
 
   - category: 娱乐
-        links:
+       links:
         - name: 优酷
           style: basic
           url: http://www.youku.com/
