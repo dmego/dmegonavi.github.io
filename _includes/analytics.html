@@ -15,7 +15,7 @@
 		(function() {
 		  var hm = document.createElement("script");
 		  hm.src = "https://hm.baidu.com/hm.js?{{ site.baidu-analysis }}";
-		  var s = document.getElementsByTagName("script")[0]; 
+		  var s = document.getElementsByTagName("script")[0];
 		  s.parentNode.insertBefore(hm, s);
 		})();
 	</script>
@@ -33,14 +33,12 @@
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
     (function() {
-        var u = "https://vps.irockbunny.com/analytics/";
+        var u = "";
         _paq.push(['setTrackerUrl', u + 'piwik.php']);
         _paq.push(['setSiteId', '{{ site.analytics.piwik.site_id }}']);
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
         g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
     })();
     </script>
-    <noscript>
-        <p><img src="https://vps.irockbunny.com/analytics/piwik.php?idsite={{ site.analytics.piwik.site_id }}&rec=1" style="border:0;" alt="Piwik Analytics" /></p>
-    </noscript>
+
 {% endif %}
