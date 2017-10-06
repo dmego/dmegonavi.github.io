@@ -15,7 +15,8 @@ analytics: true
           repo: '{{ site.gitalk.repo }}',
           owner: '{{ site.gitalk.owner }}',
           admin: ['{{ "dmego" }}'],
-		  distractionFreeMode: false
+		  		distractionFreeMode: true
+					id: window.location.pathname,
         })
         gitalk.render('gitalk-container')
        </script>
