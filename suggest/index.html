@@ -8,9 +8,9 @@ analytics: true
 {% if site.gitalk.client_id %}
   <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
   <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-	<div id="gitalk-container" style="overflow: hidden; margin: 60px 20px 0;"></div>
-
+	<div>
+		<div id="gitalk-container" style="overflow: hidden; margin: 60px 15% 0;"></div>
+	<div>
    <script type="text/javascript">
         var gitalk = new Gitalk({
           clientID: '{{ site.gitalk.client_id }}',
