@@ -2,7 +2,7 @@ analytics:
    google:
      id: UA-107262409-
 
-gitalk:
+gitalk:  
   owner: dmego
   repo: dmegonavi.github.io
   client_id: c685869d2f1daa5868cd

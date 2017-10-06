@@ -5,21 +5,16 @@ analytics: true
 ---
 
 <br>
-{% if site.gitalk.enable %}
-   {% set owner = site.gitalk.owner %}
-   {% set repo = site.gitalk.repo %}
-   {% set cid = site.gitalk.client_id %}
-   {% set adminUser = "dmego" %}
-   {% set cs = site.gitalk.client_secret %}
+{% if site.gitalk.client_id %}
   <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
   <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
    <script type="text/javascript">
         var gitalk = new Gitalk({
-          clientID: '{{cid}}',
-          clientSecret: '{{cs}}',
-          repo: '{{repo}}',
-          owner: '{{owner}}',
-          admin: ['{{adminUser}}'],
+          clientID: '{{ site.gitalk.client_id }}',
+          clientSecret: '{{ site.gitalk.client_secret }}',
+          repo: '{{ site.gitalk.repo }}',
+          owner: '{{ site.gitalk.owner }}',
+          admin: ['{{ "dmego" }}'],
 		  distractionFreeMode: false
         })
         gitalk.render('gitalk-container')
