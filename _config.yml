@@ -1,7 +1,13 @@
 analytics:
    google:
-     id: UA-107262409-1
-     
+     id: UA-107262409-
+
+gitalk:
+  owner: dmego
+  repo: dmegonavi.github.io
+  client_id: c685869d2f1daa5868cd
+  client_secret: 331ff0ae169d1b3229630908d754cf16f0f1f0f9
+
 baidu-analysis: 5510ab29b3620d9e989273be377bfd53
 
 repository: dmego/dmegonavi.github.io
