@@ -3,13 +3,14 @@ layout: default
 title: 留言建议
 analytics: true
 ---
+
 <br>
 {% if site.gitalk.enable %}
    {% set owner = site.gitalk.owner %}
-   {% set repo = theme.gitalk.repo %}
-   {% set cid = theme.gitalk.client_id %}
+   {% set repo = site.gitalk.repo %}
+   {% set cid = site.gitalk.client_id %}
    {% set adminUser = "dmego" %}
-   {% set cs = theme.gitalk.client_secret %}
+   {% set cs = site.gitalk.client_secret %}
   <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
   <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
    <script type="text/javascript">
