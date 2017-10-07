@@ -18,3 +18,6 @@ A Navigation [Website](http://navi.dmego.me/) for Dmego
 I've put a lot of time and effort into making **Dmego-Navi** awesome. If you love it, you can buy me a coffee. Every cup helps! I promise it will be a good investment.
 
 Donate [here](http://navi.dmego.me/donate/).
+
+## show with GIF
+![mark](http://ovasw3yf9.bkt.clouddn.com/blog/171008/G8e6j4eCkA.gif) 
