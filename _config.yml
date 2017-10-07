@@ -2,7 +2,7 @@ analytics:
    google:
      id: UA-107262409-
 
-gitalk:  
+gitalk:
   owner: dmego
   repo: dmegonavi.github.io
   client_id: c685869d2f1daa5868cd
@@ -23,7 +23,7 @@ keywords: 扬帆远航, Dmego-Navi, Dmego, BUPT, Navi, Navigation
 url: http://navi.dmego.me
 
 author: Dmego
-author_url: http://dmego.me
+author_url: http://home.dmego.me
 organization:
 organization_url:
 contact:

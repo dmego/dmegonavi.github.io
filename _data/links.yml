@@ -327,6 +327,10 @@
 
   - category: 与我相关
     links:
+    - name: 我的主页
+      style: black
+      url: http://home.dmego.me/
+
     - name: Dmego的博客
       style: teal
       url: http://dmego.me/
